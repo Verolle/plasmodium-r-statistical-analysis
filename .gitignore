@@ -1,0 +1,11 @@
+materials/*
+!materials/README.md
+
+*.csv
+*.xlsx
+*.tsv
+*.rds
+*.RData
+.Rhistory
+
+*.pdf

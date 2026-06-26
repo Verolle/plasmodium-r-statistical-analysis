@@ -22,7 +22,6 @@ The analysis was part of a Data Mining course and helped me apply statistical me
 ## Repository Structure
 
 ```text
-materials/        Information about the dataset and data availability
 methods/          R scripts used for the analysis
 results/figures/  Selected plots and visualizations
 results/tables/   Selected result tables or model outputs
@@ -48,4 +47,4 @@ For this reason, the repository focuses on the analysis structure, R code, stati
 ## Note
 
 This project was mainly created as a learning project. It shows how I worked with biological data, structured an analysis in R and documented the workflow in a reproducible way.
-EOF
+
